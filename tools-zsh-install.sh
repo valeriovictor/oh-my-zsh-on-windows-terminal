@@ -49,7 +49,7 @@ SPACESHIP_CHAR_SYMBOL="->"
 SPACESHIP_CHAR_SUFFIX=" "' >> ~/.zshrc
 
 #Instalação do Zinit com plubuins e confirmação do fim do script
- < y | sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+ < y | sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma-continuum/zinit/main/scripts/install.sh)"
 
 
 #Adição dos pluguins 
